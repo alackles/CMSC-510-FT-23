@@ -6,174 +6,111 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
 
-## Front Matter
+# Front Matter
 
-| Title | COURSE TITLE |
-| ----- | ----------- |
-| Instructor | Dr. Acacia Ackles |
-| Code | CMSC ### |
-| Units | 6 |
-| Room | Briggs 419 |
-| Time | TIME |
+Course | CMSC 510 Fall 2023
+--- | ---
+Title | Data Structures and Algorithm Analysis
+Time | MWF 1:50 PM - 3:00 PM
+Room | Briggs 419
+Textbook | [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) by Jeff Erickson (free)
+Office Hours | MWF 11:00 AM - 12:00 PM or by appointment
 
-### Course Materials
+Description: _Advanced data structures and the time and space efficiency of the algorithms that manipulate such structures. Topics include proof of correctness for algorithms, recursion, dynamic programming, optimized tree structures, union-find problems, graphs, path-finding algorithms, and string search algorithms._
 
-| Material | Name | Link| Notes |
-| ----- | ----- |----- | ---- |
-| Gradebook | Canvas | [Link][canvas] | Learning Hub
-| Reading Portal | Persuall | via Canvas |  Reading 
-| Textbook | TITLE | [Link][textbook] | _Free to read; tracked on Perusall_
 
-You will also need a **personal laptop** to bring to class each day. If this is a barrier for you, please let me know ASAP.
+# Course Content and Goals
 
-### Student Drop-In Hours
+_For the schedule, see [schedule](/CMSC-150-FT-23/schedule)._
 
-| Office | Time | Days |
-| ----- | ----- | ----- |
-| Steitz 131 (NOT Briggs) | TIME | DAYS
+## Course Philosophy
 
-These are the times when my schedule is blocked off for nothing but to talk to you. So please do come by! 
+Everyone in this classroom--both students and professor--is capable of learning more.
 
-If you are busy during these times, you can always schedule an appointment with me instead. Or you can swing by Steitz and see if my door is open; if it is, you are completely welcome to stop by. 
+## Learning Guideline
 
-## Overview
+This course serves three basic purposes (or _learning objectives_) in the Computer Science curriculum. By the time you leave this class, we hope that you:
 
-Course Overview.
+1. Gain exposure to a variety of common algorithms used in everyday software development.
+2. Understand mechanistically how to develop, evaluate, and implement a novel algorithm.
+3. Sharpen your skills in reflective learning.
 
-## Learning Goals
+Below is a more specific _guideline_ for these learning objectives, as well as what I, the professor, should do to support you in these goals. 
 
-By the end of this course, you should be able to do the following: 
+Topic | Objective | Professor's Role
+--- | --- | ---
+Variety.1 | I can describe the general purpose and applicable scenarios for a variety of common algorithms. | Expose students to multiple common algorithms and their associated applications.
+Variety.2 | I am able to translate pseudocode or conceputal versions of algorithms into C++ efficiently. | Give students chances to translate between C++ and pseudocode for a variety of algorithms.
+Mechanism.1 | I can look at an unfamiliar problem and identify similar underlying structures between this problem and problems I have solved in the past | Provide students with opportunities to draw connections between learned algorithms and novel problems.
+Mechanism.2 | I have experience taking a 'deep dive' into one or more algorithms and going through the process of algorithm concept and implementation start-to-end. | Give students detailed information and opportunities to work deeply on developing an algorithm for a particular data structure.
+Reflect.1 | I have a strong sense of my own strengths and weaknesses via learning through dialogue | Participate in dialogue with students about their strengths and weaknesses
+Reflect.2 | I have gained greater comfort with discomfort, failure, and unfamiliarity | Cultivate a classroom environment which supports and encourages safe exploration of discomfort, failure, and unfamiliarity 
+Reflect.3 | Reflect compassionately and critically on your learning at the conclusion of the term | Reflect compassionately and critically on students' learning and my teaching at the conclusion of the term
 
-Learning Goals Listed Here.
-- L1: CONTENT GOAL (primary)
-- L2: CONTENT GOAL (secondary)
-- **L3: Reading and Writing Computationally.** Be able to read written text (documentation, textbooks, online answers) about the course content and apply the lessons learned in your programming work; be able write your own plain language explanation of your own programming work. 
-- **L4: Failure.** Take risks and push the boundaries of your understanding to the point where you are not always succeeding at a given problem. Stray out of your comfort zone and be able to evaluate your failures and your mistakes in a holistic way. Be able to reroute back-on-track when failure happens through a variety of means (troubleshooting, asking for help, taking a different approach, scaling back, scaling up). 
-- **L5: Reflection and Metacognition.** Be able to self-evaluate and self-reflect on your work, your learning, and your understanding or lack thereof. Identify where you struggle, where you excel, and how you know what you know. 
+Think of this as a list of statements that you can answer as "True/False"; at the beginning of the term, they may mostly or all be "False", but at the end of the term, if you have gotten all you can out of the course, you should be able to confidently answer "True".
 
-## Grades and Evaluation
+# Grades
 
-This class is based on an [ungrading][blum] model. In this course, I want you to focus on what you are learning and how you are learning it, and _not_ on how many points your work is worth. Therefore, none of your reading, homework, quizzes, or projects will be assigned a numerical score. You will instead receive **feedback** from me and be encouraged to **revise** any work if either you or I feel you could gain additional understanding through revision. 
+## Attendance
 
-### Biweekly Checks
+Attendance is tracked. It is not mandatory, but it is strongly advised. 
 
-To clear up any murky confusion about what your "current grade" is or how you are currently doing with the objectives for the course, we will hold biweekly (every other week) meetings. These will be 20-minute meetings focused on your learning. What are you doing to prepare for class? What are you doing to practice the material? Where are you still struggling? How can we make sure you are on track for the outcome you want for this class--whether in terms of a grade or in terms of content knowledge? 
+Consistently attending class is the easiest thing you can do to succeed in the course. Choosing not to attend class (if you are able) will almost always create _more_ work in the long run, rather than less. 
 
-Each of these biweekly checks comes with a short self-evaluation worksheet and an opportunity for you to practice giving yourself a grade for the course. You'll have **four** of these checks over the course of the term, so your final grade hopefully should not come as a surprise to either of us!
+## Assignments & Late Policy
 
-### Final Grades 
+- Assignments are due at the time indicated on GitHub Classroom.
+- You can take a 24-hour extension at any time for any assignment by emailing me **before** the assignment due date. 
+  - No reason is required.
+  - If an emergency prevents you from emailing before, or if you need a longer extension or have extenuating circumstances, you can and should still email me (you still do not have to provide a reason).
+- Late assignments receive no feedback
+  - You can still complete them, and use them to construct/argue your final grade.
+  - Assignments turned in during an extension period are not considered "late" and will be given feedback as normal.
 
-Of course, at the end of the day, we still have to assign a letter grade for your transcript. 
+## Learning Assessment
 
-You will complete a **final portfolio** for the course in lieu of a final exam or final project. This portfolio will consist of "evidence" for each learning objective: what assignments, projects, artefacts, etc. do you have to demonstrate that you have met or exceeded the learning outcomes for the course? Based on your answers to those questions, you will **assign yourself a final grade with justification**.
+This course is **ungraded**. At the end of the term, you will self-assign a grade (A - F) which, to the best of your ability, accurately reflects both your efforts and final understanding.
 
-Here is a guideline for what each letter grade might mean in terms of this portfolio. 
+The purpose of grades are twofold: to give yourself some final closure on your success in a course, and to demonstrate to others by shorthand how good you were at meeting the goals of a particular course. (Some people see grades as a mark of how much you know about a topic, but in general, grades are a very bad measurement of knowledge.) 
 
-| Base Grade | Looks like... |
-| ------ | ------- |
-| A | Consistently **meets** and often **exceeds** the expectations for all learning outcomes for the course  |
-| B | Consistently **meets** the expectations for all learning outcomes for the course |
-| C | Often, but not always, **meets** the expectations for all learning outcomes for the course, or consistently **meets** expectations for **most** learning outcomes and **shows progress towards** other outcomes |
-| D | **Shows progress towards** the expectations for all learning outcomes for the course |
-| F | Does not provide sufficient evidence of progress towards learning objectives to assign a grade for the course | 
+You should therefore choose a grade that is a good proxy for both measurements, but I encourage you to put more emphasis on the former (closure for yourself). Below is a guideline. 
 
-**+/- Grades:** You may notice that Lawrence also has +/- grades. You should feel free to assign yourself a +/- grade if you feel you are "in between" two of the categories above. For example,someone who consistently meets minimum expectations and perhaps had one really exemplary homework that they went above-and-beyond on might assign themselves a B+.  
+Grade | What it Says to You | What it Says to Others 
+---- | ---- | ---- |
+F | I did not gain any new skills, knowledge, or experiences from being in this course. | This person did not meet any of the course goals.
+D | I gained some new skills and knowledge from this course, but it is a shaky foundation. I have developed some new understanding of the course goals, but would not be able to build upon them in practice without serious revision. | This person barely met the minimum goals for the course.
+C | I gained enough new skills and knowledge from this course to have a foundation in the topics. I can continue to build on my understanding in practice, but I have some basic skills to continue to revisit as well. | This person has met the minimum requirements for the course and mostly grasps those minimum requirements.
+B | I gained new skills and knowledge appropriate for a solid foundation in the topics. I am confidently able to build on my understanding and continue learning and refining. | This person has completely fulfilled the standards for the course and is successful at those standards.
+A | I gained enough new skills and knowledge in the course that, in order to continue to be challenged, I had to extend _beyond_ the course material. | This person has challenged themselves beyond the standards for the course and met that challenge.
 
-**Exceptions:** Lawrence does not allow grades of A+. 
+# Classroom Policies 
 
-Further details about the format of your final portfolio can be found in the Self-Evaluation tab. 
+## Policies in Brief
 
-## Collaboration and Plagiarism Policy
+- Accomodations are granted upon request. I will never argue with you about an accomodation you request, even if you do not have official documentation. 
+- Stay home if you are sick. If you attend class and are sick, especially with a respiratory illness, you may be asked to leave.
+- You are a human being with obligations, hobbies, and priorities which both encompass and extend beyond this course.
 
-None of us want to have to go through the honor council process, so I want to lay out clearly what is and isn't considered acceptable collaboration for this course. 
+## Plagiarism
 
-It is important to note that **my primary concern is that you are learning**. I allow you to revise and resubmit work to try to alleviate some of the pressure of strict, points-based grading that, in my experience, encourages gaming the system over learning. 
+Being able to synthesize original ideas is the most difficult part of being a student. It is also the only part that matters. 
 
-If there is ever a situation where you're unsure if something is acceptable collaboration or not, please just ask, even if you have already turned in the assignment. I will never hold it against you if YOU are the one pointing out the issue. At worst I will ask you to resubmit. 
+Plagiarism, or academic dishonesty, is defined in this classroom as _obfuscating, purposefully or accidentally, the origin of an idea._
 
-### Acceptable Collaboration
+Plagiarism is academia's biggest taboo because academia is fundamentally about producing, sharing, and validating ideas, and about finding the difference between ideas you _learn_ and ideas you _create_. When you hide the origin of an idea, you fail to participate in academic study.
 
-The following are **always** allowed on homeworks, labs, and projects.
+If you are ever unsure, please ask me; it is okay not to be sure. In fact, if you never ask me "is it plagiarism to use x, y, or z?", you probably either aren't doing much of your own exploration or are just hiding some plagiarism. 
 
-- Attending student hours and asking questions about the approach you are taking, then incorporating that approach into your code.
-- Discussing the concepts in the class with your classmates on a general level, e.g. in words or with pseudocode
-- Having someone else read your code with you and provide suggestions which you then implement yourself
-- Reading someone else's code to provide them with suggestions
-- Looking online for help to your **general** problem, or a **component** of your problem **with proper citation**. Example: Your homework question is "Implement a program that will randomly generate four dice rolls and drop the lowest value." It is fine to look up how to randomly generate numbers in python, how to find the minimum value, and how to return those numbers, and then paste the links as comments in your code. It is not fine to look up "python 4d6 drop lowest" and copy the code whole. 
+Here are two general guidelines: 
+- Using textbooks, videos, and forums is not plagiarism so long as you are (1) using these resources to _generate ideas_, not to _find others' ideas_, and (2) consistently crediting your sources. If the source you credit makes it look like you have plagiarized, that is still better than submitting with no source. 
+- Working with a friend is not plagiarism so long as you are each generating your own ideas in concert with each other. As a rule of thumb, if you find yourself typing and are not sure what or why you are typing, that is plagiarism. It's time to back up and find the idea for yourself.
+- **Using generative AI (chatGPT, large language models) to complete assignments is plagiarism by default**, because chatGPT plagiarizes by default. Certainly there are good ideas to be found there, but they are _not chatGPT's ideas_; you have no idea whose ideas they are. As a model which mix-and-matches existing text to its own sentences, it purposefully obfuscates the origin of all ideas it presents. 
 
-### Unacceptable Collaboration/Plagiarism
-
-The following are never allowed.
-
-- Posting actual code on Piazza where other students can see it (posting it privately so I can read it is okay)
-- Copying any code that another student has written
-- Copying code from online without attribution
-- Posting solutions to the course materials to online aggregation sites (e.g. Chegg) or using solutions from such sites
-- Having a friend debug your code for you and then turning in the revised code
-- Looking at a friend’s code (or code on the internet for a similar purpose) and then using what you see to write your own code.* 
-- Looking at code from someone in class and then reproducing it verbatim in your own files
-- Directly copying code out of the book, or relying heavily on book code and not citing your use of it in the comments when the assignment does not specifically state that you may do so.
-- Using any AI-generated code (e.g. chatGPT, GPT-3, other OpenAI tools) as a solution or part of a solution to a problem.
-
-\* This one is tricky. Sometimes seeing what other people are doing right or wrong can be helpful for understanding our own code, but often when we're just starting out, it's hard to find the line between learning something new and implementing something without really understanding how it works. If you are ever unsure, **ask first**. 
-
-The reason for a full ban on AI-generated code is because this code is currently **unattributable** and **unregulated**, not to mention that the tools abstract away for you the critical component of this course, which is _sense-making_ and not _solution-finding_. This policy may change as the AI code landscape evolves, but for now, these tools are not appropriate for use as learning tools in a classroom setting.
-
-## Course Policies
-
-### Late Work Policy
-
-Late work is accepted up until the final day of the term. 
-
-### Attendance
-
-**Attendance is tracked** in this course; there is no "magic number" of attendances required, but for most students, regular attendance has a large impact on your final understanding of the material in the course. 
-
-**First Week Policy:** Per LU policy, attendance is required for the first week of class. If you do not attend the first day AND do not let me know why, I will reach out to you to check if you are still attending; if you do not respond and do not attend the first week, the registrar will drop you from the course. 
-
-### Accomodations
-
-I make every effort to incorporate universal design and inclusive learning into my course materials, but individualization is an important part of learning. 
-
-I will follow the guidance of any academic accomodations you [request](https://www7.lawrence.edu/academics/academic-success/accessibility-services/requesting-accommodations) through the Center for Academic Success.
-
-**I will also make a good-faith effort to follow other academic accomodations you may need, regardless of whether or not you have documentation from CAS, a doctor, or otherwise.** If there is something I can do that you know will allow you to engage fully with the course, please do not hesitate to ask. (If you need help figuring out what that 'something' is, we can chat about that too.)
-
-### Illness Policy
-
-**Please do not come to class if you are sick.** Please do not come to class if you think you might be sick. Please do not come to class if you were exposed to any sort of highly contagious airborne disease. You do not need a doctor's note and I do not need an excuse for you to miss class. 
-
-### Other Policies
-
-Here are some other assorted course policies that may be added to over the term.
-
-- Food and drink are always okay to have in class, but I'm not responsible if your laptop gets drenched.
-- If you are experiencing a childcare or dependent care emergency, you are welcome to bring your child/dependent to class if you choose to attend.
-- Your health and wellbeing as a human are more important than any university course, including mine. 
-  
-## Pedagogy
-
-This section exists because I'm a big believer in transparency. For one, I think many students learn better when they understand their professors' teaching choices. For another, you're dedicating quite a lot of your time and money to be in this classroom; it seems only fair that you get insight into how it works. If you aren't interested in the pedagogy behind this course, feel free not to read this. But it is here for you if you want it. 
-
-### Metacognition and Student Reflection
-
-Metacognition has been repeatedly shown to enhance student independence and success ([1][biggs], [2][schraw]). Metacognition is literally "thinking about thinking"; what leads you to the conclusions you reach when you're learning a new topic? What assumptions are you making when approaching a new topic that might be helping or hurting your understanding? 
-
-Ten weeks is a pretty short time frame to try to get really deep into metacognitive practices, so I really just try to incorporate reflection and revision into the course as much as possible. That's why all assessments can be revised and resubmitted at any time. 
-
-### Ungrading
-
-My goal is for students to focus more on what they have learned than how many points they have received for learning it. To encourage such focus, I myself prioritize feedback over scoring. This has led me to the mastery-based "grade" scheme that I use.
-
-Ungrading is also a more equitable form of student feedback. In computer science classrooms, ungrading typically enhances recruitment and retention of historically excluded students and reduces student stress, while maintaining a high standard of student work ([3][malan], [4][berns]). 
-
-For more on ungrading, see ([5][blum]).
-
-
-_Parts of this syllabus is based heavily on one by Dr. Anya E. Vostinar. Thanks!_
-
-[malan]: https://dl.acm.org/doi/10.1145/3408877.3432461
-[berns]: https://dl.acm.org/doi/10.1145/3328778.3366956
-[blum]: https://wvupressonline.com/ungrading
-[biggs]: http://journals.sagepub.com/doi/10.1177/000494418803200201
-[schraw]: http://link.springer.com/10.1007/s11165-005-3917-8
+## Resources
+
+Resource | Contact If... 
+--- | ---
+ESL Center via [Cecile Depres-Berry](mailto:cecile.c.despres-berry@lawrence.edu) | You want to practice specialized academic English or gain more cultural familiarity with the US education system
+[Tutoring Center](https://www.lawrence.edu/offices/center-academic-success/tutoring-programs-services) (Scroll to How to Request a Tutor) | You want to work with peers who have taken the class before to engage deeper with the course content  
+[Wellness/Counseling](https://www.lawrence.edu/offices/wellness-services/mental-wellness-counseling) | You are experiencing difficulty with life, emotions, and stressors inside and beyond the classroom and want to get help in the form of therapy, medication, or other support.
+Spiritual/Religious Life via [Terra Winston-Sage](mailto:terra.r.winston@lawrence.edu) | You want support emotionally or spiritually at Lawrence **or** you want to speak to someone about an issue you are facing who has chaplain privileges (i.e. **is not a mandatory reporter**).
