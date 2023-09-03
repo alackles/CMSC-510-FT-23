@@ -6,15 +6,15 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CMSC ###: COURSE TITLE"
+title                    : "CMSC 510: Data Structures & Algorithm Analysis"
 title_separator          : "-"
-subtitle                 : "Term YYYY"
-description              : "Materials for the [term] term of [course] at Lawrence University. Taught by Acacia Ackles."
+subtitle                 : "Fall 2023"
+description              : "Materials for the Fall 2023 term of CMSC 510 at Lawrence University. Taught by Acacia Ackles."
 repository               : "alackles/template-course-website"
 # Site Author
 author:
   name: Acacia Ackles
-  bio:  Visiting Assistant Professor of Computer Science at Lawrence University
+  bio:  Assistant Professor of Computer Science at Lawrence University
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
