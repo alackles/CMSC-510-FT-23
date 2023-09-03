@@ -14,6 +14,7 @@ Title | Data Structures and Algorithm Analysis
 Time | MWF 1:50 PM - 3:00 PM
 Room | Briggs 419
 Textbook | [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) by Jeff Erickson (free)
+Homework | GitHub Classroom
 Office Hours | MWF 11:00 AM - 12:00 PM or by appointment
 
 Description: _Advanced data structures and the time and space efficiency of the algorithms that manipulate such structures. Topics include proof of correctness for algorithms, recursion, dynamic programming, optimized tree structures, union-find problems, graphs, path-finding algorithms, and string search algorithms._
