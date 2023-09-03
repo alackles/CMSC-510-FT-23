@@ -1,7 +1,9 @@
 ---
 title: Self-Evaluation
 permalink: /self-eval/
-classes: wide
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 ---
 
 In this course, you will be reflecting weekly on your progress through the course, culminating in a final grade that you assign yourself based on an honest assessment of your understanding of the course material. 
