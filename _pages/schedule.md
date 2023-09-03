@@ -60,4 +60,4 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | W 11/15 | Revisiting Old Failures | Class Prep Assignment
 | R 11/16 | Final Portfolio Work | Weekly Reflection
 
-**Final Portfolios Due FINALS DATE by 5:30 PM**
+**Final Portfolios Due Tuesday, November 21 by 5:30 PM**
