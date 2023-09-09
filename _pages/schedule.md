@@ -11,9 +11,9 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | Date	| Topic	| Due (Before Class) |	Assigned (After Class) |
 | ------- | ----------| ------------- | -------------- |
 | **Week 1** | **Algorithmic Thinking** | | |
-| M 9/11 | What is an Algorithm? | | Problem Set 1A
+| M 9/11 | [What is an Algorithm?][w1d1] | | [Setup Assignment][setup]
 | T 9/12 | _mod 1 Progress Meetings_ 
-| W 9/13 | Formalism: Induction | Perusall + Problem Set 1A | Problem Set 1B
+| W 9/13 | Formalism: Induction | Perusall + Setup Assignment | Problem Set 1B
 | F 9/15 | Exercises: Puzzles and Problem Solving | Weekly Reflection + Problem Set 1B | 
 | **Week 2** | **Recursion** | | |
 | M 9/18 | Recursion | Perusall | Problem Set 2A
@@ -61,3 +61,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | R 11/16 | Final Portfolio Work | Weekly Reflection
 
 **Final Portfolios Due Tuesday, November 21 by 5:30 PM**
+
+[w1d1]: https://alackles.github.io/CMSC-150-FT-23/notes/w1d1
+
+[setup]: https://alackles.github.io/CMSC-510-FT-23/notes/setup
