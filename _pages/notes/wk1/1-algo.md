@@ -11,8 +11,8 @@ toc_icon: "cog"
 Time | Activity | Purpose
 ---- | ---- | ----
 9:50 - 10:15 | Names + Intro Activity | Build community for our course
-10:15 - 10:45 | What is an Algorithm? | Build on past knowledge and experience 
-10:45 - 11:00 | Syllabus and Homework Overview | Discuss course-wide logistics
+10:15 - 10:40 | Syllabus and Homework Overview | Discuss course-wide logistics
+10:40 - 11:00 | What is an Algorithm? | Build on past knowledge and experience 
 
 # Learning Goals
 

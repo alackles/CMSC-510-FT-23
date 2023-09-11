@@ -24,9 +24,9 @@ toc_icon: "cog"
 >
 > Assignment _goals_ are not the same thing as assignment _parameters_, listed below. Think of assignment goals as "what should I _learn from_ this assignment?" and assignment parameters as "what should I _do for_ this assignment?"
 
-- [ ] Make a first attempt at using GitHub Classroom account. [Java.3]
+- [ ] Make a first attempt at using GitHub Classroom account. [N/A]
 - [ ] Gain familiarity with the format of assignments in this course by reading through this document. [Reflect.3]
-- [ ] Find out where tutoring for CMSC 150 takes place by visiting the room. [Reflect.1]
+- [ ] View your classmates as valuable resources [Reflect.1]
 
 ## ⏲️ Struggle Time
 
@@ -48,7 +48,7 @@ Part II: 30 minutes.
 
 > Assignment parameters are essentially the instructions for the assignment. Completing the assignment requires you to read through and fulfill the assignment parameters. 
 
-### Part II: Find a Study Buddy or Make a Study Plan
+### Part I: Find a Study Buddy or Make a Study Plan
 
 College classes are, in general, difficult to succeed in if you're on your own. Fortunately, you're not on your own. You have me, and everyone in this classroom, all going through this course with you! 
 
@@ -58,7 +58,7 @@ Of course, not everybody wants to study in groups, and I will not force you to d
 
 To fulfill the parameters of this assignment, you must do **one of** the following.
 
-- [ ] Meet up, outside of class, with at least one fellow classmate to complete the rest of this assignment, OR
+- [ ] Meet up, outside of class, with at least one fellow classmate to complete **the rest of this assignment**, OR
 - [ ] Visit my office hours at least one day this week.
   
 ### Part II: GitHub Classroom
