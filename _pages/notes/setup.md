@@ -8,7 +8,6 @@ toc_icon: "cog"
 ---
 ‼️ Future assignments will be posted **only on GitHub Classroom**. This assignment is duplicated to the website since one purpose is to set up GitHub Classroom for the first time and to explain assignment formatting.
 
-
 # CMSC 510 Setup Assignment
 
 > This assignment is half assignment, half tutorial.
