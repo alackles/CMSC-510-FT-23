@@ -62,8 +62,8 @@ This is a rough schedule of topics for each day, and the release and due dates f
 
 **Final Portfolios Due Tuesday, November 21 by 5:30 PM**
 
-[w1d1]: https://alackles.github.io/CMSC-150-FT-23/notes/w1d1
-[w1d2]: https://alackles.github.io/CMSC-150-FT-23/notes/w1d2
+[w1d1]: https://alackles.github.io/CMSC-510-FT-23/notes/w1d1
+[w1d2]: https://alackles.github.io/CMSC-510-FT-23/notes/w1d2
 
 [setup]: https://alackles.github.io/CMSC-510-FT-23/notes/setup
 [ps1]: https://classroom.github.com/a/zaXiMXzr
