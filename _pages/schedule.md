@@ -13,7 +13,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | **Week 1** | **Algorithmic Thinking** | | |
 | M 9/11 | [What is an Algorithm?][w1d1] | | [Setup Assignment][setup]
 | T 9/12 | _mod 1 Progress Meetings_ 
-| W 9/13 | [Formalism: Induction][w1d2] | Perusall + Setup Assignment | Problem Set 1
+| W 9/13 | [Formalism: Induction][w1d2] | Perusall + Setup Assignment | [Problem Set 1][ps1]
 | F 9/15 | Exercises: Puzzles and Problem Solving | Weekly Reflection + Problem Set 1 | 
 | **Week 2** | **Recursion** | | |
 | M 9/18 | Recursion | Perusall | Problem Set 2A
@@ -66,3 +66,4 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [w1d2]: https://alackles.github.io/CMSC-150-FT-23/notes/w1d2
 
 [setup]: https://alackles.github.io/CMSC-510-FT-23/notes/setup
+[ps1]: https://classroom.github.com/a/zaXiMXzr
