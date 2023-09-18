@@ -16,7 +16,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | W 9/13 | [Formalism: Induction][w1d2] | Perusall + Setup Assignment | [Problem Set 1][ps1]
 | F 9/15 | Exercises: Puzzles and Problem Solving | Weekly Reflection + Problem Set 1 | 
 | **Week 2** | **Recursion** | | |
-| M 9/18 | Recursion | Perusall | [Problem Set 2A][ps2a]
+| M 9/18 | [Recursion][w2d1] | Perusall | [Problem Set 2A][ps2a]
 | T 9/19 | _mod 0 Progress Meetings_
 | W 9/20 | Formalism: Algorithmic Limits | Perusall + Problem Set 2A | Problem Set 2B
 | F 9/22 | Exercises: Backtracking | Weekly Reflection + Problem Set 2B
@@ -64,6 +64,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 
 [w1d1]: https://alackles.github.io/CMSC-510-FT-23/notes/w1d1
 [w1d2]: https://alackles.github.io/CMSC-510-FT-23/notes/w1d2
+[w2d1]: https://alackles.github.io/CMSC-510-FT-23/notes/w2d1
 
 [setup]: https://alackles.github.io/CMSC-510-FT-23/notes/setup
 [ps1]: https://classroom.github.com/a/zaXiMXzr

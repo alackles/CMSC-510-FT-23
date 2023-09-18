@@ -1,6 +1,6 @@
 ---
-title: W1D2 - Recursion
-permalink: /notes/w1d2
+title: W2D1 - Recursion
+permalink: /notes/w2d1
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
