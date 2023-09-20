@@ -70,3 +70,4 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [setup]: https://alackles.github.io/CMSC-510-FT-23/notes/setup
 [ps1]: https://classroom.github.com/a/zaXiMXzr
 [ps2a]: https://classroom.github.com/a/LqQo6KM5
+[ps2b]: https://classroom.github.com/a/50bGVa8S
