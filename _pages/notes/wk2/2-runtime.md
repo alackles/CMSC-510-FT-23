@@ -1,6 +1,6 @@
 ---
 title: W2D2 - Runtime
-permalink: /notes/w2d1
+permalink: /notes/w2d2
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
@@ -68,4 +68,39 @@ $f(x) = O(g(x))$, where...
 
 ## Class Exercise 2
 
-Determine the runtime for the `mergesort` algorithm described in your book on page 
+Determine the big-Oh runtime for the `mergesort` algorithm.
+
+```
+MergeSort(A[1..n]):
+    if n > 1
+        m = floor(n/2)
+        MergeSort(A[1..m])
+        MergeSort(A[m+1..n])
+        Merge(A[1..n],m)
+    end if
+end
+
+Merge(A[1..n], m):
+    i = 1
+    j = m+1
+    for k = 1 to n
+        if j > n
+            B[k] = A[i]
+            i++
+        else if i > m
+            B[k] = A[j]
+            j++
+        else if A[i] < A[j]
+            B[k] = A[i]
+            i++
+        else
+            B[k] = A[j]
+            j++
+        end if
+    end for
+
+    for k = 1 to n
+        A[k] = B[k]
+    end for
+end
+```
