@@ -19,7 +19,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | M 9/18 | [Recursion][w2d1] | Perusall | [Problem Set 2A][ps2a]
 | T 9/19 | _mod 0 Progress Meetings_
 | W 9/20 | [Formalism: Algorithmic Limits][w2d2] | Perusall + Problem Set 2A | [Problem Set 2B][ps2b]
-| F 9/22 | Exercises: Backtracking | Weekly Reflection + Problem Set 2B
+| F 9/22 | [Exercises: Backtracking][w2ex] | Weekly Reflection + Problem Set 2B
 | **Week 3** | **Dynamic Programming** | | |
 | M 9/25 | From Recursion to Dynamic Programming | Perusall | Problem Set 3A
 | T 9/26 | _mod 1 Progress Meetings_
@@ -66,6 +66,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [w1d2]: https://alackles.github.io/CMSC-510-FT-23/notes/w1d2
 [w2d1]: https://alackles.github.io/CMSC-510-FT-23/notes/w2d1
 [w2d2]: https://alackles.github.io/CMSC-510-FT-23/notes/w2d2
+[w2ex]: https://alackles.github.io/CMSC-510-FT-23/notes/w2ex
 
 [setup]: https://alackles.github.io/CMSC-510-FT-23/notes/setup
 [ps1]: https://classroom.github.com/a/zaXiMXzr
