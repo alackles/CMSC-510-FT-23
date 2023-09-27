@@ -21,10 +21,10 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | W 9/20 | [Formalism: Algorithmic Limits][w2d2] | Perusall + Problem Set 2A | [Problem Set 2B][ps2b]
 | F 9/22 | [Exercises: Backtracking][w2ex] | Weekly Reflection + Problem Set 2B
 | **Week 3** | **Dynamic Programming** | | |
-| M 9/25 | From Recursion to Dynamic Programming | Perusall | Problem Set 3A
+| M 9/25 | From Recursion to Dynamic Programming | Perusall | 
 | T 9/26 | _mod 1 Progress Meetings_
-| W 9/27 | Formalism: Runtime Comparison | Perusall + Problem Set 3A | Problem Set 3B 
-| F 9/29 | Exercises: Counting Coins | Weekly Reflection + Problem Set 3B
+| W 9/27 | NO CLASS 
+| F 9/29 | Exercises: Counting Coins | Weekly Reflection + AlphaGO Movie
 | **Week 4** | **Greedy Algorithms** | | |
 | M 10/2 | Greedy Algorithms and Local Optima | Perusall | Problem Set 4A
 | T 10/3 | _mod 0 Progress Meetings_
