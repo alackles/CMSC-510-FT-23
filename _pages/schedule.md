@@ -22,19 +22,17 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | F 9/22 | [Exercises: Backtracking][w2ex] | Weekly Reflection + Problem Set 2B
 | **Week 3** | **Dynamic Programming** | | |
 | M 9/25 | From Recursion to Dynamic Programming | Perusall | 
-| T 9/26 | _mod 1 Progress Meetings_
 | W 9/27 | NO CLASS 
 | F 9/29 | Exercises: Counting Coins | Weekly Reflection + AlphaGO Movie
-| **Week 4** | **Greedy Algorithms** | | |
-| M 10/2 | Greedy Algorithms and Local Optima | Perusall | Problem Set 4A
-| T 10/3 | _mod 0 Progress Meetings_
-| W 10/4 | Formalism: Proofs of Correctness | Perusall + Problem Set 4A | Problem Set 4B |
+| **Week 4** | **Catch-up** |
+| M 10/2 | NO CLASS
+| W 10/4 | Trip 
 | F 10/6 | Exercises: Schedule Building | Weekly Reflection + Problem Set 4B |
-| **Week 5** | **Graphs** | | |
-| M 10/9 | Graph Structure | Perusall | Problem Set 5A
+| **Week 5** | **Dynamic Programming** | | |
+| M 10/9 | Problem: Subset Sum |  | [Problem Set 3][ps3]
 | T 10/10 | _mod 1 Progress Meetings_
-| W 10/11 | Formalism: Representations | Persuall + Problem Set 5A | Problem Set 5B
-| F 10/13 | Exercises: Graph Traversal | Weekly Reflection + Problem Set 5B 
+| W 10/11 | Greedy Algorithms | Persuall | 
+| F 10/13 | Exercises: Dynamic Programming Practice | Weekly Reflection + Problem Set 4
 | **Week 6** | **Proofs** | | |
 | M 10/16 | Formalism: Proof Review | Persuall | Problem Set 6
 | T 10/17 | _mod 0 Progress Meetings_
@@ -72,3 +70,4 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [ps1]: https://classroom.github.com/a/zaXiMXzr
 [ps2a]: https://classroom.github.com/a/LqQo6KM5
 [ps2b]: https://classroom.github.com/a/50bGVa8S
+[ps3]: https://classroom.github.com/a/vDLlaw3w
