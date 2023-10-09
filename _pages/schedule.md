@@ -27,31 +27,31 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | **Week 4** | **Catch-up** |
 | M 10/2 | NO CLASS
 | W 10/4 | Trip 
-| F 10/6 | Exercises: Schedule Building | Weekly Reflection + Problem Set 4B |
+| F 10/6 | Exercises |
 | **Week 5** | **Dynamic Programming** | | |
 | M 10/9 | Problem: Subset Sum |  | [Problem Set 3][ps3]
 | T 10/10 | _mod 1 Progress Meetings_
 | W 10/11 | Greedy Algorithms | Persuall | 
-| F 10/13 | Exercises: Dynamic Programming Practice | Weekly Reflection + Problem Set 4
+| F 10/13 | Exercises: Dynamic Programming Practice | Weekly Reflection + Problem Set 3
 | **Week 6** | **Proofs** | | |
-| M 10/16 | Formalism: Proof Review | Persuall | Problem Set 6
+| M 10/16 | Formalism: Proof Review | Persuall | Problem Set 4
 | T 10/17 | _mod 0 Progress Meetings_
-| W 10/18 | Exercises: Union-Find | Weekly Reflection + Problem Set 6 | 
+| W 10/18 | Exercises: Union-Find | Weekly Reflection + Problem Set 4 | 
 | **Week 7** | **Minimum Spanning Trees** | | |
-| M 10/23 | Minimum Spanning Trees | Perusall | Problem Set 7A
+| M 10/23 | Minimum Spanning Trees | Perusall | Problem Set 5A
 | T 10/24 | _mod 1 Progress Meetings_
-| W 10/25 | Formalism: Kruskall | Perusall + Problem Set 7A | Problem Set 7B
+| W 10/25 | Formalism: Kruskall | Perusall + Problem Set 5A | Problem Set 5B
 | F 10/27 | Exercises: MST Applications | Weekly Reflection + Problem Set 5B
 | **Week 8** | **Shortest Paths** | | |
-| M 10/30 | Finding Shortest Paths | Perusall | Problem Set 8A
+| M 10/30 | Finding Shortest Paths | Perusall | Problem Set 6A
 | T 10/31 | _mod 0 Progress Meetings_
-| W 11/1 | Formalism: BFS and DFS Proofs | Perusall + Problem Set 8A | Problem Set 8B
-| F 11/3 | Exercises: Finding Paths | Perusall + Problem Set 8B
+| W 11/1 | Formalism: BFS and DFS Proofs | Perusall + Problem Set 6A | Problem Set 6B
+| F 11/3 | Exercises: Finding Paths | Perusall + Problem Set 6B
 | **Week 9** | **NP-Hard Problems** | | | 
-| M 11/6 | What is NP? | Perusall | Problem Set 9A
+| M 11/6 | What is NP? | Perusall | Problem Set 7
 | T 11/7 | _mod 1 Progress Meetings_
-| W 11/8 | Formalism: What is NP, really? | Perusall + Problem Set 9A | Problem Set 9B
-| F 11/10 | Exercises: Reducibility | Weekly Reflection + Problem Set 9B
+| W 11/8 | Formalism: What is NP, really? | Perusall | 
+| F 11/10 | Exercises: Reducibility | Weekly Reflection + Problem Set 7
 | **Week 10** | **Reflection** | | |
 | M 11/13 | What is an Algorithm? 
 | T 11/14 | _mod 0 Progress Meetings_
