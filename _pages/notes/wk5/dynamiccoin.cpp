@@ -5,15 +5,14 @@ int make_change(const std::vector<int> & D, int n) {
     int numcoins[n]; 
     numcoins[0] = 0;
     for (int i = 1; i <= n; i++) {
-        int min = n;
+        int best = n;
         for (int denom : D) {
-            if (i >= denom) {
-                if (min > numcoins[i-denom]) {
-                    min = numcoins[i-denom] + 1;
-                }  
+            if (i < denom) {
+                break;
             }
+            best = std::min(numcoins[i-denom] + 1, best);
         }
-        numcoins[i] = min;
+        numcoins[i] = best;
     }
     return numcoins[n];
 }
@@ -23,7 +22,7 @@ int main() {
     std::cout << make_change(D, 40) << std::endl;
     std::cout << make_change(D, 50) << std::endl;
     std::cout << make_change(D, 45) << std::endl;
-    std::cout << make_change(D, 3) << std::endl;
     std::cout << make_change(D, 171) << std::endl;
+    std::cout << make_change(D, 102) << std::endl;
 
 }
