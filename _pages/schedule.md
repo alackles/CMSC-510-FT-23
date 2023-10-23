@@ -37,7 +37,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | M 10/16 | Formalism: Review of Graphs | Persuall | 
 | W 10/18 | Exercises: Union-Find | Weekly Reflection | 
 | **Week 7** | **Minimum Spanning Trees** | | |
-| M 10/23 | Minimum Spanning Trees | | 
+| M 10/23 | [Minimum Spanning Trees][w7d1] | | 
 | W 10/25 | Formalism: Kruskall + Prim | Perusall  | Problem Set 4
 | F 10/27 | Exercises: MST Applications | Weekly Reflection + Problem Set 4
 | **Week 8** | **Shortest Paths** | | |
@@ -60,6 +60,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [w2d1]: https://alackles.github.io/CMSC-510-FT-23/notes/w2d1
 [w2d2]: https://alackles.github.io/CMSC-510-FT-23/notes/w2d2
 [w2ex]: https://alackles.github.io/CMSC-510-FT-23/notes/w2ex
+[w7d1]: https://alackles.github.io/CMSC-510-FT-23/notes/w7d1
 
 [setup]: https://alackles.github.io/CMSC-510-FT-23/notes/setup
 [ps1]: https://classroom.github.com/a/zaXiMXzr
