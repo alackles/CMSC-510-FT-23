@@ -37,9 +37,9 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | M 10/16 | Formalism: Review of Graphs | Persuall | 
 | W 10/18 | Exercises: Union-Find | Weekly Reflection | 
 | **Week 7** | **Minimum Spanning Trees** | | |
-| M 10/23 | Minimum Spanning Trees | Perusall | Problem Set 4A
-| W 10/25 | Formalism: Kruskall | Perusall + Problem Set 4A | Problem Set 4B
-| F 10/27 | Exercises: MST Applications | Weekly Reflection + Problem Set 4B
+| M 10/23 | Minimum Spanning Trees | | 
+| W 10/25 | Formalism: Kruskall | Perusall  | Problem Set 4
+| F 10/27 | Exercises: MST Applications | Weekly Reflection + Problem Set 4
 | **Week 8** | **Shortest Paths** | | |
 | M 10/30 | Finding Shortest Paths | Perusall | Problem Set 5A
 | W 11/1 | Formalism: BFS and DFS Proofs | Perusall + Problem Set 5A | Problem Set 5B
