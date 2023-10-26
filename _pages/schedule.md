@@ -38,8 +38,8 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | W 10/18 | Exercises: Union-Find | Weekly Reflection | 
 | **Week 7** | **Minimum Spanning Trees** | | |
 | M 10/23 | [Minimum Spanning Trees][w7d1] | | 
-| W 10/25 | Formalism: Kruskall + Prim | Perusall  | Problem Set 4
-| F 10/27 | Exercises: MST Applications | Weekly Reflection + Problem Set 4
+| W 10/25 | Formalism: Kruskall + Prim | Perusall  | [Problem Set 7][ps7]
+| F 10/27 | Exercises: MST Applications | Weekly Reflection + Problem Set 7
 | **Week 8** | **Shortest Paths** | | |
 | M 10/30 | Finding Shortest Paths | Perusall | Problem Set 5A
 | W 11/1 | Formalism: BFS and DFS Proofs | Perusall + Problem Set 5A | Problem Set 5B
@@ -67,3 +67,4 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [ps2a]: https://classroom.github.com/a/LqQo6KM5
 [ps2b]: https://classroom.github.com/a/50bGVa8S
 [ps3]: https://classroom.github.com/a/vDLlaw3w
+[ps7]: https://classroom.github.com/a/4ZZ995nX
